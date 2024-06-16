@@ -1,0 +1,1 @@
+Welcome to Digital Complaints Project. Objective of this project to automate the complaint process of the Citizens. Primarily this is targetted as a solution for Law encorcement agencies. However planning to keep this open and configurable where as any other government agency can also adapt this platform.
